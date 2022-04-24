@@ -1,0 +1,25 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+
+
+    <v:String x:Key="Language">Язык</v:String>
+    <v:String x:Key="Search">Поиск</v:String>
+    <v:String x:Key="Company">Компании</v:String>
+
+    <v:String x:Key="Price_filter">Цена</v:String>
+    <v:String x:Key="Price_From">От</v:String>
+
+    <v:String x:Key="Price_To">До</v:String>
+
+
+    <v:String x:Key="Reset">Сбросить</v:String>
+    <v:String x:Key="butt_delete">Удалить</v:String>
+    <v:String x:Key="butt_change">Изменить</v:String>
+    <v:String x:Key="butt_create">Добавить</v:String>
+    <v:String x:Key="Price_item">Цена</v:String>
+    <v:String x:Key="Description_item">Описание</v:String>
+    <v:String x:Key="Rating">Рейтинг</v:String>
+
+</ResourceDictionary>
+
